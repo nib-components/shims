@@ -9,6 +9,7 @@
   "license": "MIT",
   "main": "index.js",
   "scripts": [
+    "index.js",
     "lib/classList.js",
     "lib/es5-sham.js",
     "lib/es5-shim.js",
