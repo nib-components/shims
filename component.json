@@ -1,0 +1,18 @@
+{
+  "name": "shims",
+  "repo": "nib-components/shims",
+  "description": "Various browser shims",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "lib/classList.js",
+    "lib/es5-sham.js",
+    "lib/es5-shim.js",
+    "lib/event.js",
+    "lib/slice.js"
+  ]
+}
