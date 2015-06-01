@@ -1,0 +1,12 @@
+{
+  "name": "@nib-components/shims",
+  "version": "0.1.4",
+  "description": "Various browser shims",
+  "keywords": [],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nib-components/shims.git"
+  }
+}
