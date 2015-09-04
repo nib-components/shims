@@ -2,7 +2,7 @@
   "name": "shims",
   "repo": "nib-components/shims",
   "description": "Various browser shims",
-  "version": "0.0.1",
+  "version": "0.1.5",
   "keywords": [],
   "dependencies": {},
   "development": {},
