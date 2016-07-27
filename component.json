@@ -2,7 +2,7 @@
   "name": "shims",
   "repo": "nib-components/shims",
   "description": "Various browser shims",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "keywords": [],
   "dependencies": {},
   "development": {},
@@ -14,6 +14,7 @@
     "lib/es5-sham.js",
     "lib/es5-shim.js",
     "lib/event.js",
-    "lib/slice.js"
+    "lib/slice.js",
+    "lib/text-content.js"
   ]
 }
